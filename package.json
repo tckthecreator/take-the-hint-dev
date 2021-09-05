@@ -1,0 +1,12 @@
+{
+  "name": "take-the-hint-dev",
+  "version": "1.0.0",
+  "description": "A bot to publish and share development hints",
+  "main": "index.js",
+  "repository": "https://github.com/tckthecreator/take-the-hint-dev.git",
+  "author": "tckthecreator",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^10.0.0"
+  }
+}
