@@ -3,7 +3,7 @@
 Esse é um projeto de um bot do Twitter que retweeta e posta dicas de programação para seus seguidores. 
 O objetivo é deixar acessível o máximo de conteúdo de Programação e Desenvolvimento em um só lugar, para quem não sai do Twitter como eu.
 
-# Siga a gente na Rede Social do Passarinho Azul
+## Siga a gente na Rede Social do Passarinho Azul
 https://twitter.com/bot_takethehint
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
