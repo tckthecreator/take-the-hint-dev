@@ -6,6 +6,8 @@ O objetivo é deixar acessível o máximo de conteúdo de Programação e Desenv
 # Siga a gente na Rede Social do Passarinho Azul
 https://twitter.com/bot_takethehint
 
+---------------------------------------------------------------------------------------------------------------------------------------------
+
 ### Ajustes e melhorias
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
