@@ -21,6 +21,8 @@ Visto por: @${tweet.user.screen_name}`,
         attachment_url: `https://twitter.com/${tweet.in_reply_to_screen_name}/status/${tweet.in_reply_to_status_id_str}` 
     });
 });
+
+console.log('Bot iniciado');
     
 
 
