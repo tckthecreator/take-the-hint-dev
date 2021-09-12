@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A bot to publish and share development hints",
   "scripts": {
-    "start": "node index.js"
+    "start": "node ."
   },
   "main": "src/index.js",
   "repository": "https://github.com/tckthecreator/take-the-hint-dev.git",
