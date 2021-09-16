@@ -28,7 +28,7 @@ Antes de começar a mexer nos códigos, verifique se:
 
 Para contribuir com o projeto, siga estas etapas:
 
-1. Navegue este repositório.
+1. Navegue neste repositório.
 2. Crie um branch: `git checkout -b <nome_branch>`.
 3. Faça suas alterações e confirme-as: `git commit -m '<mensagem_commit>'`
 4. Envie para o branch original
