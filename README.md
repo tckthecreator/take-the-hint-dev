@@ -21,8 +21,8 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 Antes de começar a mexer nos códigos, verifique se:
 
-* Você instalou a versão mais recente do NodeJS
-* Você possui uma conta de desenvolvedor do Twitter para testes locais.
+* Você instalou a versão mais recente do NodeJS?
+* Você possui uma conta de desenvolvedor do Twitter para testes locais?
 
 ## 📫 Contribuindo para o Take The Hint, Dev
 
