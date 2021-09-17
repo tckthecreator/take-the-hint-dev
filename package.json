@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A bot to publish and share development hints",
   "scripts": {
-    "start": "node ."
+    "start": "nodemon index.js"
   },
   "main": "src/index.js",
   "repository": "https://github.com/tckthecreator/take-the-hint-dev.git",
@@ -13,5 +13,8 @@
     "dotenv": "^10.0.0",
     "node-fetch": "^3.0.0",
     "twit": "^2.2.11"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
   }
 }
